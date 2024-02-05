@@ -13,3 +13,10 @@ Jira, ALM
 Skills:
 Manual Testing
 Automation Testing (Python)
+
+Testing Techniques:
+Functional and Non Functional
+Functional:
+unit, integration, system, UAT, etc
+Non Functional:
+Performance,security etc
