@@ -1,3 +1,4 @@
+Tools and Technologies used
 python
 selenium webdriver
 pytest
@@ -8,3 +9,7 @@ Jenkins
 Bitbucket
 Git, GitHub
 Jira, ALM
+
+Skills:
+Manual Testing
+Automation Testing (Python)
