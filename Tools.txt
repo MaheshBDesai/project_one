@@ -1,0 +1,10 @@
+python
+selenium webdriver
+pytest
+API Testing
+Postman
+
+Jenkins
+Bitbucket
+Git, GitHub
+Jira, ALM
