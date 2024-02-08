@@ -1,0 +1,36 @@
+Sandeep Guttalu Suryaprasad
+4:58 PM
+class Employee:
+    def __init__(self, fname, lname, age):
+        self.fname = fname
+        self.lname = lname
+        self.age = age
+
+e1 = Employee("steve", "jobs", 26)
+e2 = Employee("bill", "gates", 27)
+e3 = Employee("amy", "masters", 28)
+e4 = Employee("john", "dow", 22)
+
+# Sort the below list of employees based on their "age".
+employees = [e1, e2, e3, e4]
+  
+Sandeep Guttalu Suryaprasad
+5:05 PM
+# "a" and "b" should accept only positive values (using magic method or property or descripotrs)
+class Point:
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+p = Point(1, 2)
+p.a = -1
+p.b = -2
+p = Point(-1, 2)
+p = Point(2, -3)
+
+  
+Sandeep Guttalu Suryaprasad
+5:08 PM
+# Decorator
+@positive
+def sub(a, b):
+	return a - b
